@@ -1,6 +1,6 @@
 # QGuideView
 自定义引导蒙层控件，支持全屏模式和targetView模式<br>
-![全屏模式gif](https://github.com/272664150/QGuideView/blob/master/screenshots/1.png)
+![全屏模式gif](https://github.com/272664150/QGuideView/blob/master/screenshots/1.gif)
                              
  全屏模式
  -----
